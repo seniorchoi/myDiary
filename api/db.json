@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "date": "Wed Apr 04 2018",
+      "title": "This is my first diary",
+      "body": "I am finally done with the basic JS course, now will move on to React. I'm almost ready for internship(I think) and I'm so motivated! But I feel dizzy from working too much. I should keep more track of my pace or I will get burnt out.",
+      "id": 1
+    }
+  ]
+}
